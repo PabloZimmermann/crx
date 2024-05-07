@@ -13,3 +13,5 @@ Caution: It is recommended to use these extensions solely for testing scenarios.
 For more information on how these extensions are integrated and used within the playwright-web3 framework, please visit the library’s official npm package page: playwright-web3 on npm.
 
 link to library that uses this repo: https://www.npmjs.com/package/playwright-web3?activeTab=readme
+
+the chrome extensions were downloaded using this extension: https://chromewebstore.google.com/detail/get-crx/dijpllakibenlejkbajahncialkbdkjc
